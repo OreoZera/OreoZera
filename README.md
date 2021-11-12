@@ -4,3 +4,6 @@
 - 🏘️**Address:** Biên Hoà - Đồng Nai
 - 👤**Job:** Tự do
 - Update soon....
+<p align="center">
+	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=OreoZera.OreoZera">
+</p>
