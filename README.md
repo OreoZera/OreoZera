@@ -3,8 +3,9 @@
 	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=OreoZera.OreoZera">
 </p>
 
-- 💯**Name:** Lê Thanh Thiện
+- 💯**Name:** Le Thanh Thien
 - 🎂**Birth:** 09/04/2003
-- 🏘️**Address:** Biên Hoà - Đồng Nai
-- 👤**Job:** Tự do
+- 🏘️**Address:** Bien Hoa - Dong Nai
+- 👤**Job:** Worker
 - Update soon....
+
